@@ -3,7 +3,7 @@
 
 #API KEY 저장을 위한 os 라이브러리 호출
 import os
-
+import streamlit as st
 #from langchain.llms import OpenAI
 #llm = OpenAI()
 
